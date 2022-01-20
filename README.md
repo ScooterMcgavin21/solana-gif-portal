@@ -1,15 +1,15 @@
 ## Web3 app on Solana with React and Rust
 
+---
 
-***
-<p style="text-align:left;">
-    <a href="https://solana-gif-portal-nine.vercel.app/">Deployed with Vercel</a> 
-    <span style="float:right;">
-        <a href="https://github.com/ScooterMcgavin21/solana-gif-portal/tree/main/app">To the Client Side</a> 
-    </span>
-</p>
+### `Links`
 
-***
+[Vercel Deployment](https://solana-gif-portal-nine.vercel.app/) • [Solana Explorer](https://explorer.solana.com/address/9pNVhk76iTkKaei3kGQRsvgY5NiC5dNygwK7sVrhXRQe?cluster=devnet)  • [Client Side](https://github.com/ScooterMcgavin21/solana-gif-portal/tree/main/app) 
+
+
+
+---
+
 
 <br />
 
@@ -109,9 +109,4 @@ cd app && npm install
 npm start
 ```
 
-<p style="text-align:left;">
-    x
-    <span style="float:right;">
-        y 
-    </span>
-</p>
+
