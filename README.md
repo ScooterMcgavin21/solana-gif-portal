@@ -1,12 +1,11 @@
 ## Web3 app on Solana with React and Rust
 
-<br />
 
 ***
 <p style="text-align:left;">
-    <a href="https://github.com/ScooterMcgavin21/Typechain-Portal/tree/main/client">Deployed with Vercel</a> 
+    <a href="https://solana-gif-portal-nine.vercel.app/">Deployed with Vercel</a> 
     <span style="float:right;">
-        <a href="https://github.com/ScooterMcgavin21/Typechain-Portal/tree/main/client">To the Client Side</a> 
+        <a href="https://github.com/ScooterMcgavin21/solana-gif-portal/tree/main/app">To the Client Side</a> 
     </span>
 </p>
 
@@ -92,7 +91,7 @@ anchor test --skip-local-validator
 
 1. Clone the repository
 ```bash
-git clone 
+git clone git@github.com:ScooterMcgavin21/solana-gif-portal.git
 ```
 
 2. Install Anchor npm modules
@@ -110,3 +109,9 @@ cd app && npm install
 npm start
 ```
 
+<p style="text-align:left;">
+    x
+    <span style="float:right;">
+        y 
+    </span>
+</p>
